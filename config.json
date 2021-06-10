@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/SOCIETY_FOR_NICE_PEOPLE",
+    "prod_uri": "mysql://root:@localhost/SOCIETY_FOR_NICE_PEOPLE",
+    "fb_url": "https://facebook.com/SocietyForNicePeople",
+    "tw_url": "https://twitter.com/SocietyForNicePeople",
+    "gh_url": "https://github.com/SocietyForNicePeople",
+    "blog_name": "SOCIETY FOR NICE PEOPLE",
+    "blogger_name":"AKSHIT VERMA",
+    "gmail-user": "societyfornicepeople@gmail.com",
+    "gmail-password": "enterpass",
+    "about_text":"Hi welcome to the SOCIETY FOR NICE PEOPLE ",
+    "no_of_posts":2,
+    "login_image": "login-leaf.jpg",
+    "admin_user": "Seeder",
+    "admin_password": "seedingnicepeople21@",
+    "upload_location": "C:\\Users\\DELL\\PycharmProjects\\Flask_Tuts\\static"
+
+  }
+}
